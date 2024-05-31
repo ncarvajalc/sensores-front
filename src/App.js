@@ -120,7 +120,7 @@ function App() {
             src={
               activeSensor
                 ? sensorImages[allMetrics.indexOf(activeSensor)]
-                : "/IoT/SensoresFenicia/images/DIAGRAMAPPAL.png"
+                : "/images/DIAGRAMAPPAL.png"
             }
             alt="Imagen descriptiva"
             style={{ maxWidth: "100%", height: "auto" }}
