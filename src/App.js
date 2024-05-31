@@ -23,9 +23,9 @@ function App() {
   const [activeSensor, setActiveSensor] = useState(null);
 
   const sensorImages = [
-    "/IoT/SensoresFenicia/images/DIAGRAMA1.png",
-    "/IoT/SensoresFenicia/images/DIAGRAMA2.png",
-    "/IoT/SensoresFenicia/images/DIAGRAMA3.png",
+    "/images/DIAGRAMA1.png",
+    "/images/DIAGRAMA2.png",
+    "/images/DIAGRAMA3.png",
   ];
 
   useEffect(() => {
